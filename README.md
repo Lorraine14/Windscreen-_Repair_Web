@@ -20,6 +20,6 @@ You can open the `Kapelas.html` file in your browser to see the website locally.
 
 ## Technologies Used
 
--HTML
--CSS
--JavaScript or frameworks (fully static)
+- HTML
+- CSS
+- JavaScript or frameworks (fully static)
