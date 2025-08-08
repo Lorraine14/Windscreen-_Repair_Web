@@ -22,4 +22,3 @@ You can open the `Kapelas.html` file in your browser to see the website locally.
 
 - HTML
 - CSS
-- JavaScript or frameworks (fully static)
